@@ -90,6 +90,18 @@ Supported languages: javascript, python, java, css, html, bash, and many more vi
 </section>
 ```
 
+### Mermaid graphs
+
+```html
+<section>
+    <pre class="mermaid">
+        │ flowchart LR
+        A[A] -->|text| B[B]
+        B -->|text| C[C]
+    </pre>
+</section>
+```
+
 ## Keyboard Controls
 
 - `Space` / `Arrow Right` / `Arrow Down` - Next slide
